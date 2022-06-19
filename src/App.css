@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#input-1 {
+  width: 200px;
+}
+
+.btn-1 {
+  background-color: lightskyblue;
+  outline: none;
+}
